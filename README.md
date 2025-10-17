@@ -1,7 +1,5 @@
 # Advanced Autoclicker with Fluent UI
 
-![Project Screenshot](https_placeholder_for_your_app_screenshot.png)
-*(Note: You should replace the placeholder above with an actual screenshot of your application)*
 
 A powerful, feature-rich autoclicker built with Python and PyQt6. This application goes beyond simple clicking, offering advanced targeting controls, multiple activation modes, and a sleek, modern user interface inspired by Fluent Design.
 
