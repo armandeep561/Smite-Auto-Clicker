@@ -70,6 +70,8 @@ To run this application, you will need Python 3 and a few external libraries.
     python main.py
     ```
 
+Use Virtual environment (Recomendeded)
+
 ## Project Structure
 
 The project is organized into a modular structure for clarity and scalability.
